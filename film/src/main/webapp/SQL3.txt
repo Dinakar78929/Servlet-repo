@@ -1,0 +1,23 @@
+
+
+1. Consider the Empl table and write SQL command to get the following.
+2. Write a query to display EName and Sal of employees whose salary are greater than
+or equal to 2200?
+3. Write a query to display details of employs who are not getting commission?
+4. Write a query to display employee name and salary of those employees who don’t have
+their salary in range of 2500 to 4000?
+5. Write a query to display the name, job title and salary of employees who don’t have manager?
+6. Write a query to display the name of employee whose name contains “A” as third alphabet?
+7. Write a query to display the name of employee whose name contains “T” as last alphabet?
+8. Write a query to display the name of employee whose name contains ”M” as First and
+“L” as third alphabet?
+9. Write a query to display details of employs with the text “Not given”, if commission is null?
+
+
+
+
+
+
+https://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@github.com/Dinakar78929/MYSQL-repo.git
+
+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
